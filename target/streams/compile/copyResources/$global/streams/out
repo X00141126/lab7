@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/laralagioia/webapps/WWDD1CoreDesignLab/conf/application.conf,/home/laralagioia/webapps/WWDD1CoreDesignLab/target/scala-2.12/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/laralagioia/webapps/WWDD1CoreDesignLab/conf/logback.xml,/home/laralagioia/webapps/WWDD1CoreDesignLab/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/laralagioia/webapps/WWDD1CoreDesignLab/conf/routes,/home/laralagioia/webapps/WWDD1CoreDesignLab/target/scala-2.12/classes/routes)[0m
